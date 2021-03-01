@@ -1,4 +1,4 @@
-# Color_Sensing_Arduino
+# 6-DoF Robot using Arduino
 Algorithm to design a robot which can sense object's color and pick it up then place it on a specific position according to the sensed color.
 It also has ability to stop the robotic arm if there is an object in front of it.
 
